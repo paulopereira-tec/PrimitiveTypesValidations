@@ -2,6 +2,20 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Validações simples de tipos primitivos usando Extension Methods em C#</Description>
+    <Copyright>Paulo Pereira</Copyright>
+    <PackageProjectUrl>https://github.com/paulopereira-tec/PrimitiveTypesValidations</PackageProjectUrl>
+    <PackageIcon>primitive.png</PackageIcon>
+    <PackageIconUrl />
+    <RepositoryUrl>https://github.com/paulopereira-tec/PrimitiveTypesValidations</RepositoryUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="primitive.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

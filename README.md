@@ -16,6 +16,6 @@ else
 ```
 
 ## Créditos
-A inspiração desse projeto surgiu a partir da excelente iniciativa de de André Baltieri ao fornecer uma excelente biblioteca de padrão de notificações. https://github.com/andrebaltieri/Flunt
+A inspiração desse projeto surgiu a partir da excelente iniciativa de de André Baltieri ao fornecer uma excelente biblioteca de padrão de notificações. (https://github.com/andrebaltieri/Flunt) Haja vista a grande importancia do seu projeto, este é uma versão simplificada retornando apenas verdadeiro ou falso.
 
-Haja vista a grande importancia do seu projeto, este é uma versão simplificada retornando apenas verdadeiro ou falso.
+Ícone do projeto: https://www.freepik.com
